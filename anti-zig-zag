@@ -1,4 +1,5 @@
-#Best time was Vivalas Loop was 58.395 seconds with 4 off-tracks
+#Best time was Vivalas Loop was 58.395 seconds with 4 off-tracks.  Parameters were same as default with min speed: 2 m/s, max speed: 3 m/s.  1 hr training.
+
 
 
 def reward_function(params):
